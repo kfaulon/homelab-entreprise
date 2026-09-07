@@ -36,13 +36,13 @@ Stack : Go, React, TypeScript, PostgreSQL, Docker, Linux, systemd, Git/Gitea.
 
 Objectif :  regrouper dans une interface simple plusieurs opérations habituellement dispersées entre scripts, terminaux et outils de supervision, afin de fiabiliser les changements et réduire les tâches manuelles.
 
-Le projet évolue progressivement vers l’intégration d’assistants IA encadrés, capables d’aider au diagnostic, à l’analyse de logs, à la préparation de validations et à l’automatisation de certaines opérations techniques, tout en gardant une logique de contrôle humain et de traçabilité.
+Le projet évolue vers l’intégration d’assistants IA, capables d’aider au diagnostic, à l’analyse de logs, à la préparation de validations et à l’automatisation de certaines opérations techniques, tout en gardant une logique de contrôle humain et de traçabilité.
 
 ### Fundamental Galaxy
 
-Application web multijoueur conçue comme un projet cloud-ready, avec backend Go, frontend React/TypeScript et base PostgreSQL.
+Application web multijoueur conçue comme un projet cloud-ready, avec backend Go, frontend React/TypeScript et BD PostgreSQL.
 
-Le projet sert aussi de terrain d’expérimentation pour l’architecture client/serveur, la conteneurisation, les migrations, les tests automatisés, les workflows de validation, les outils d’exploitation et l’intégration progressive d’assistance IA côté développement.
+Le projet sert aussi d'experience client/serveur, conteneurisation, migrations,  tests automatisés, workflows de validation, outils d’exploitation et intégration progressive d’assistance IA côté développement.
 
 ### Homelab infrastructure & cybersécurité
 
